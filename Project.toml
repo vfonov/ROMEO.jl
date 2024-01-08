@@ -16,8 +16,8 @@ Statistics = "1.6"
 StatsBase = "0.25 - 0.34"
 julia = "1.6"
 
-[extensions]
-RomeoApp = ["MriResearchTools", "ArgParse"]
+#[extensions]
+#RomeoApp = ["MriResearchTools", "ArgParse"]
 
 [weakdeps]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
